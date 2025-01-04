@@ -1,0 +1,64 @@
+
+/* ------------Manual Codes for Adjustment------------ */
+
+/* Logo Mobile View Adjust */
+
+
+@media (max-width: 768px){
+.mn-logo-01{
+width: 100%; 
+text-align: center;
+margin-bottom: 5%;
+}
+}
+
+.mn-text-center{
+    margin-left: -45%;
+    margin-top: -15% ;
+}
+
+@media (max-width: 768px){
+.mn-text-center{
+    margin-left: 0%;
+    margin-top: 0%;
+    padding-top: 0%;
+
+}
+}
+
+.mn-cap-01{
+    display: flex;
+    float: right;
+}
+
+.mn-ser-01{
+    margin-left: 25%;
+}
+
+@media (max-width: 768px){
+    .mn-ser-01{
+        margin-left: -5%;
+    }
+}
+
+.mn-upcom-01{
+    margin-left: 38%;
+}
+
+@media (max-width: 768px){
+    .mn-upcom-01{
+        margin-left: -5%;
+    }
+}
+
+.mn-head-01{
+        margin-top: -7%;
+        height: 250px;
+}
+
+@media (max-width: 768px){
+    .mn-head-01{
+        margin-top: -35%;
+        height: 200px;
+    }
+}
