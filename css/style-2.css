@@ -62,3 +62,9 @@ margin-bottom: 5%;
         height: 200px;
     }
 }
+@media (max-width: 768px){
+    .mn-home-01{
+        margin-top: 40%;
+    }
+}
+
