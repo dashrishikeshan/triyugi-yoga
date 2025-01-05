@@ -73,3 +73,210 @@ Deleted codes from website may be used in future
                     aria-hidden="false"></span>
                 <span class="visually-hidden-focusable">Next</span>
             </button> -->
+
+    4.
+    <!-- Training Start **more details and works to be done**-->
+    <!-- <div class="container-fluid training overflow-hidden bg-light py-5 mn-home-01">
+        <div class="container py-5">
+            <div class="section-title text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="sub-style">
+                    <h5 class="sub-title text-primary px-3">CHECK OUR TRAINING</h5>
+                </div>
+                <h1 class="display-5 mb-4">Best Training with Triyugi-Yoga</h1>
+                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque
+                    sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam
+                    necessitatibus saepe in ab? Repellat!</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="training-item">
+                        <div class="training-inner">
+                            <img src="img/blog-5.jpg" class="img-fluid w-100 rounded" alt="Image">
+                            <div class="training-title-name">
+                                <a href="#" class="h4 text-white mb-0">Yoga For</a>
+                                <a href="#" class="h4 text-white mb-0">Dibatese</a>
+                            </div>
+                        </div>
+                     <div class="training-content bg-secondary rounded-bottom p-4">
+                            <a href="#">
+                                <h4 class="text-white">IELTS Coaching</h4>
+                            </a>
+                            <p class="text-white-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem,
+                                veritatis.</p>
+                            <a class="btn btn-secondary rounded-pill text-white p-0" href="#">Read More <i
+                                    class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="training-item">
+                        <div class="training-inner">
+                            <img src="img/blog-5.jpg" class="img-fluid w-100 rounded" alt="Image">
+                            <div class="training-title-name">
+                                <a href="#" class="h4 text-white mb-0">Yoga For</a>
+                                <a href="#" class="h4 text-white mb-0">Thyroid</a>
+                            </div>
+                        </div>
+                     <<div class="training-content bg-secondary rounded-bottom p-4">
+                            <a href="#">
+                                <h4 class="text-white">IELTS Coaching</h4>
+                            </a>
+                            <p class="text-white-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem,
+                                veritatis.</p>
+                            <a class="btn btn-secondary rounded-pill text-white p-0" href="#">Read More <i
+                                    class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="training-item">
+                        <div class="training-inner">
+                            <img src="img/blog-5.jpg" class="img-fluid w-100 rounded" alt="Image">
+                            <div class="training-title-name">
+                                <a href="#" class="h4 text-white mb-0">Yoga For</a>
+                                <a href="#" class="h4 text-white mb-0">Cholestrol</a>
+                            </div>
+                        </div>
+                     <div class="training-content bg-secondary rounded-bottom p-4">
+                            <a href="#">
+                                <h4 class="text-white">IELTS Coaching</h4>
+                            </a>
+                            <p class="text-white-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem,
+                                veritatis.</p>
+                            <a class="btn btn-secondary rounded-pill text-white p-0" href="#">Read More <i
+                                    class="fa fa-arrow-right"></i></a>
+                        </div> 
+                    </div>
+                </div>
+                <div class="col-lg-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="training-item">
+                        <div class="training-inner">
+                            <img src="img/blog-5.jpg" class="img-fluid w-100 rounded" alt="Image">
+                            <div class="training-title-name">
+                                <a href="#" class="h4 text-white mb-0">Yoga For</a>
+                                <a href="#" class="h4 text-white mb-0">Stress</a>
+                            </div>
+                        </div>
+                     <div class="training-content bg-secondary rounded-bottom p-4">
+                            <a href="#">
+                                <h4 class="text-white">IELTS Coaching</h4>
+                            </a>
+                            <p class="text-white-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem,
+                                veritatis.</p>
+                            <a class="btn btn-secondary rounded-pill text-white p-0" href="#">Read More <i
+                                    class="fa fa-arrow-right"></i></a>
+                        </div> 
+                    </div>
+                </div>
+                
+                <div class="col-lg-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="training-item">
+                        <div class="training-inner">
+                            <img src="img/training-2.jpg" class="img-fluid w-100 rounded" alt="Image">
+                            <div class="training-title-name">
+                                <a href="#" class="h4 text-white mb-0">TOEFL</a>
+                                <a href="#" class="h4 text-white mb-0">Coaching</a>
+                            </div>
+                        </div>
+                        <div class="training-content bg-secondary rounded-bottom p-4">
+                            <a href="#">
+                                <h4 class="text-white">TOEFL Coaching</h4>
+                            </a>
+                            <p class="text-white-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem,
+                                veritatis.</p>
+                            <a class="btn btn-secondary rounded-pill text-white p-0" href="#">Read More <i
+                                    class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="training-item">
+                        <div class="training-inner">
+                            <img src="img/training-3.jpg" class="img-fluid w-100 rounded" alt="Image">
+                            <div class="training-title-name">
+                                <a href="#" class="h4 text-white mb-0">PTE</a>
+                                <a href="#" class="h4 text-white mb-0">Coaching</a>
+                            </div>
+                        </div>
+                        <div class="training-content bg-secondary rounded-bottom p-4">
+                            <a href="#">
+                                <h4 class="text-white">PTE Coaching</h4>
+                            </a>
+                            <p class="text-white-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem,
+                                veritatis.</p>
+                            <a class="btn btn-secondary rounded-pill text-white p-0" href="#">Read More <i
+                                    class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="training-item">
+                        <div class="training-inner">
+                            <img src="img/training-4.jpg" class="img-fluid w-100 rounded" alt="Image">
+                            <div class="training-title-name">
+                                <a href="#" class="h4 text-white mb-0">OET</a>
+                                <a href="#" class="h4 text-white mb-0">Coaching</a>
+                            </div>
+                        </div>
+                        <div class="training-content bg-secondary rounded-bottom p-4">
+                            <a href="#">
+                                <h4 class="text-white">OET Coaching</h4>
+                            </a>
+                            <p class="text-white-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem,
+                                veritatis.</p>
+                            <a class="btn btn-secondary rounded-pill text-white p-0" href="#">Read More <i
+                                    class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 text-center">
+                    <a class="btn btn-primary border-secondary rounded-pill py-3 px-5 wow fadeInUp"
+                        data-wow-delay="0.1s" href="#">View More</a>
+                </div>
+            </div>
+        </div>
+    </div> -->
+        <!-- Training End -->
+    5.
+    
+                    <!-- opening time section -->
+                    <!-- <div class="col-md-6 col-lg-6 col-xl-3">
+                        <div class="footer-item d-flex flex-column">
+                            <h4 class="text-secondary mb-4">Opening Time</h4>
+                            <div class="mb-3">
+                                <h6 class="text-muted mb-0">Mon - Friday:</h6>
+                                <p class="text-white mb-0">09.00 am to 07.00 pm</p>
+                            </div>
+                            <div class="mb-3">
+                                <h6 class="text-muted mb-0">Satday:</h6>
+                                <p class="text-white mb-0">10.00 am to 05.00 pm</p>
+                            </div>
+                            <div class="mb-3">
+                                <h6 class="text-muted mb-0">Vacation:</h6>
+                                <p class="text-white mb-0">All Sunday is our vacation</p>
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- <div class="col-md-6 col-lg-6 col-xl-3">
+                        <div class="footer-item d-flex flex-column">
+                            <h4 class="text-secondary mb-4">Our Services</h4>
+                            <a href="#" class=""><i class="fas fa-angle-right me-2"></i> Business</a>
+                            <a href="#" class=""><i class="fas fa-angle-right me-2"></i> Evaluation</a>
+                            <a href="#" class=""><i class="fas fa-angle-right me-2"></i> Migrate</a>
+                            <a href="#" class=""><i class="fas fa-angle-right me-2"></i> Study</a>
+                            <a href="#" class=""><i class="fas fa-angle-right me-2"></i> Counselling</a>
+                            <a href="#" class=""><i class="fas fa-angle-right me-2"></i> Work / Career</a>
+                        </div>
+                    </div> -->
+                    <!-- news letter -->
+                    <!-- <div class="col-md-6 col-lg-6 col-xl-3">
+                        <div class="footer-item">
+                            <h4 class="text-secondary mb-4">Newsletter</h4>
+                            <p class="text-white mb-3">Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem ipsum
+                                dolor sit amet, consectetur adipiscing elit.</p> -->
+                            <!-- <div class="position-relative mx-auto rounded-pill">
+                                <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" type="text"
+                                    placeholder="Enter your email">
+                                <button type="button"
+                                    class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">SignUp</button>
+                            </div> -->
