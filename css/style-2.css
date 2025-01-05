@@ -62,9 +62,17 @@ margin-bottom: 5%;
         height: 200px;
     }
 }
-@media (max-width: 768px){
-    .mn-home-01{
-        margin-top: 40%;
-    }
-}
 
+body{
+    background:linear-gradient(90deg, #000000, #3633cd);
+    }
+
+h1
+h2
+p
+h3
+h4
+{
+    color: rgba(189, 189, 10, 0.808);
+
+}

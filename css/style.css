@@ -338,7 +338,7 @@
 
 /*** Single Page Hero Header Start ***/
 .bg-breadcrumb {
-    background: linear-gradient(rgba(53, 3, 3, 0.699), rgba(198, 195, 236, 0.836));
+    /* background: linear-gradient(rgba(53, 3, 3, 0.699), rgba(198, 195, 236, 0.836)); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: initial;
@@ -409,7 +409,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, 0.6));
+    background: linear-gradient(180deg, rgba(56, 166, 245, 0.534), rgba(155, 242, 239, 0.527));
     background-size: cover;
 }
 
