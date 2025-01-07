@@ -162,9 +162,3 @@ body{
         font-size: 12px;
     }
 }
-
-@media (max-width: 768px){
-    mn-cnt-hm-01{
-        margin-top: 10%;
-    }
-}
