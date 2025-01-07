@@ -156,3 +156,9 @@ body{
     
 }
 
+
+@media (max-width: 768px){
+    .mn-ser-add-02{
+        font-size: 12px;
+    }
+}
