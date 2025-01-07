@@ -147,3 +147,12 @@ body{
         margin-top: 5px;
     }
 }
+
+@media (max-width: 768px) {
+    .mn-sub-ttl-01{
+        font-size: 12px;
+        margin-bottom: 100px;
+    }
+    
+}
+

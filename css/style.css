@@ -557,7 +557,6 @@
     width: 96%;
     transition: 0.5s;
 }
-
 .service .service-item:hover .service-inner .service-title .service-content {
     bottom: 0;
     opacity: 1;
